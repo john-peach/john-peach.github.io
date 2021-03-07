@@ -97,8 +97,8 @@ author:
   name             : "장혁진"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "시스템 프로그램을 위한 C언어"
-  location         : "Somewhere"
-  email            :
+  location         : "대한민국, 용인"
+  email            : "21-21024@hafs.hs.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
