@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "장혁진"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "시스템 프로그램을 위한 C언어"
   location         : "Somewhere"
   email            :
   links:
